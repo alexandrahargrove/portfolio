@@ -1,0 +1,29 @@
+* {
+    font-family: 'VT323', monospace;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #0B0023;
+}
+
+#nav-links {
+    color: white;
+    font-size: 40px;
+    margin: 15px;
+}
+
+#logo {
+    height: 90%;
+    width: 100%;
+}
+
+#social {
+    background-color: #0B0023;
+}
+
+#social a {
+    margin-top: 10px;
+    margin-right: 20px;
+    float: right;
+}
+

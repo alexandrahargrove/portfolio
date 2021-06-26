@@ -1,0 +1,17 @@
+#palm-trees {
+    width: 300px;
+}
+
+#contact {
+    display: flex;
+}
+
+form input{
+    height: 20px;
+    width: 300px;
+    background-color: pink;
+}
+
+#message {
+    height: 300px;
+}

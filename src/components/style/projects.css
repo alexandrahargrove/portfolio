@@ -1,0 +1,27 @@
+#project-container {
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+}
+
+.project {
+    margin: 30px;
+    height: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #56F69D;
+    box-shadow: 0 0 20px #56F69D;
+}
+
+#beta-bots, #strangers-things, #snake {
+    width: 250px;
+
+}
+
+#project-title {
+    text-align: center;
+    background-color: transparent;
+    border-bottom: 2px solid hotpink;
+    font-size: 2em;
+    margin-bottom: 10px;
+}
